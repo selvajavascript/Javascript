@@ -1,1 +1,2 @@
-alert("I am a External JS");
+console.log("I am a console");
+5+9
